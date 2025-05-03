@@ -100,3 +100,25 @@
 -- You can also create a new branch in GitHub Desktop for each of your sub games. This way you can keep track of your progress and easily switch between different versions of your game.
 -- To create a new branch, click on the "Current Branch" dropdown in GitHub Desktop and select "New Branch". Give your branch a name and click "Create Branch". You can now switch between branches by clicking on the "Current Branch" dropdown and selecting the branch you want to work on. When you are done with your changes, you can merge your branch back into the main branch by clicking on the "Branch" menu and selecting "Merge into Current Branch". This will allow you to keep your main branch clean and organized while still being able to work on multiple features or bug fixes at once.
 
+--Extensions
+-- sumneko.lua
+-- esbenp.prettier-vscode
+-- trixnz.vscode-lua
+-- vscode.json-language-features
+-- kisstkondoros.vscode-gutter-preview
+-- vscode.typescript-language-features
+-- formulahendry.auto-rename-tag
+-- ionutvmi.path-autocomplete
+-- pixelbyte-studios.pixelbyte-love2d
+-- Koihik.vscode-lua-format
+-- formulahendry.auto-close-tag
+
+-- mrmlnc.vscode-duplicate
+-- TTOOWA.in-your-face-incredible
+-- pixelwar.love2dsnippets
+-- pixelbyte-studios.pixelbyte-love2d
+
+-- arthurdiegoo.great-dreamer
+-- xgr-development.zaeri   --Mi tema favorto <3
+
+-- lwz7512.love2d-made-easy
