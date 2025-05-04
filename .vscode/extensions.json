@@ -1,5 +1,47 @@
 {
     "recommendations": [
-        "xgr-development.zaeri"
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "ionutvmi.path-autocomplete",        
+        "kisstkondoros.vscode-gutter-preview",
+        "mrmlnc.vscode-duplicate",
+        "ms-vscode-remote.remote-wsl",
+
+        //JS
+        "xabikos.javascriptsnippets", 
+
+        //Lua
+        "actboy168.lua-debug",
+        "koihik.vscode-lua-format",
+        "sumneko.lua",
+        "tomblind.local-lua-debugger-vscode",
+        "trixnz.vscode-lua",
+
+        //Love2D
+        "mightypancake.love2d-theme",
+        "pixelbyte-studios.pixelbyte-love2d",
+        "pixelwar.love2dsnippets",
+
+        //Maybe useful
+        // "github.copilot",
+        // "github.copilot-chat",
+        // "lwz7512.love2d-made-easy",
+
+        //Themes
+        "xgr-development.zaeri",
+        // "alexanderalekseenko.darky-purple-theme",
+        // "arthurdiegoo.great-dreamer",
+        // "clari-codes.clari-codes-theme",
+        // "dansarich.lovelace-theme",
+        // "dracula-theme.theme-dracula",
+        // "hkh12.parkour",
+        // "ibrhalilaydn.galactus-theme",
+        // "jjoocceeee.feminine-code",
+        // "paulvandermeijs.loved",
+        // "pink-dream.pink-dream",
+
+        //Funny
+        // "ttoowa.in-your-face-incredible",
     ]
 }
